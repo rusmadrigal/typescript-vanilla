@@ -8,5 +8,5 @@ diceNumber = 3;
 
 const constainsLetterM = lastName.includes('M');
 
-console.log({ constainsLetterM, diceNumber })
+console.log({ constainsLetterM, diceNumber, firstName, lastName });
 

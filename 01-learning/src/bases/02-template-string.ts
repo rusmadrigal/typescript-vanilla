@@ -1,5 +1,5 @@
 
-const firstName = 'Rusben';
+const firstName = 'Rus';
 const lastName = "O' Neal"
 
 const fullName = `${firstName} ${lastName.toUpperCase()}`

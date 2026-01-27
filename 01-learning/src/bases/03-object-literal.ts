@@ -2,6 +2,12 @@ const ironman = {
     firstName: 'Tony',
     lastName: 'Stark',
     age: 45,
+    address: {
+        city: 'New York',
+        state: 'NY',
+        country: 'USA',
+        zip: '10001'
+    }
 }
 
 const spiderman = structuredClone(ironman);

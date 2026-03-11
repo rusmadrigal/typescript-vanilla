@@ -7,6 +7,7 @@ myArray.push(15);
 console.log(myArray);
 
 
+
 for (const myNumber of myArray) {
     console.log(myNumber + 10);
 }
